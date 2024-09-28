@@ -2,7 +2,7 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "甜蜜云",
+  "name": "Mox云盘",
   "icons": [
     {
       "src": "../images/applogo.png",
